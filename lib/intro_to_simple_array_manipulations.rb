@@ -38,6 +38,6 @@ def using_uniq(array)
   array.using_uniq
 end
 
-def using_delete(array, "string")
-  array.delete("string")
+def using_delete(array, string)
+  array.delete(string)
 end
