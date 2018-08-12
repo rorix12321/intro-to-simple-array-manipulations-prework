@@ -14,6 +14,7 @@ def pop_with_args(array)
   array2 = array.length
   while array2.length > 0
     array.pop
+  end
 end
 
 def using_shift(array)
